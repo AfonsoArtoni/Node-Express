@@ -1,2 +1,2 @@
 # Node-Express
-Curso de Node.js com Express
+Exemplo de API em Node.js usando o framework Express.js
